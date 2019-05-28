@@ -7,7 +7,6 @@ some tools for my java develop...
 
 <br>
 
-实现原理：使用XMLHttpRequest的blob作为responseType接收后台返回的数据，如果后台服务中在响应头中添加有fileName请求台，则按文件解析，反之，则按正常情况解析。
+实现原理：使用XMLHttpRequest的blob作为responseType接收后台返回的数据，如果后台服务中在响应头中添加有fileName请求台，则按文件解析，反之，则按正常情况解析。简单，直接看https://github.com/zhangsan0415/mytools/blob/master/js/ajaxFileUpAndDownload.js
 
-<br>
-[地址]()
+
